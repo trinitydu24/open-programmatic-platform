@@ -172,3 +172,31 @@ open-programmatic-platform/
 ├── tests/
 └── README.md
 ```
+
+---
+
+# Long-Term Objectives
+This project is intended to:
+- simulate realistic adtech environments
+- demonstrate data engineering skills
+- demonstrate ML and analytics capabilities
+- build a strong adtech/data science portfolio
+- explore sustainability and fairness in advertising technology
+
+---
+
+# Future Improvments
+- Real-time bidding APIs
+- Advanced fraud scoring
+- Reinforcement learning budget optimization
+- Attention metrics
+- Privacy-aware analytics
+- OpenRTB compatibility
+- Multi-touch attribution
+- Carbon optimization recommendations
+
+---
+
+# Disclaimer
+This project is experimental and educational.
+It is not intended for production advertising operations.
