@@ -1,0 +1,9 @@
+install.packages(c(
+  "tidyverse",
+  "shiny",
+  "plotly",
+  "DBI",
+  "RPostgres",
+  "jsonlite",
+  "httr"
+))
